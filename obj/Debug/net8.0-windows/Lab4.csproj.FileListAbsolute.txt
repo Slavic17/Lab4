@@ -1,0 +1,16 @@
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.Form1.resources
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.exe
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.deps.json
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.dll
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\bin\Debug\net8.0-windows\Lab4.pdb
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.dll
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Документы\work\Lab4\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll
